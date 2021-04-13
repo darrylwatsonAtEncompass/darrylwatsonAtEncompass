@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darrylwatsonAtEncompass
+- 👋 Hi, I’m ... me
 - 👀 I’m interested in ... stuff
 - 🌱 I’m currently learning ... this
 - 💞️ I’m looking to collaborate on ... things
